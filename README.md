@@ -1,8 +1,13 @@
 ### Hi there, I'm [Samuel!](https://samuelbernard147.github.io/) 👋
-<!--
-- 🌱 I’m currently learning UI/UX & Dart
-- 💬 Ask me about anything [here](https://t.me/SamuelBernard)
--->
+- 🔭 I’m an Android Developer working at [MNC Play](https://www.mncplay.id).
+- 🌱 I’m currently learning Dart.
+- 📫 How to reach me: [Telegram](https://t.me/SamuelBernard) or [Email](samuelbjeffersen@gmail.com)
+- 😄 Pronouns: He / Him
+- ⚡ Fun fact: 
+  - Working towards an Associate Android Developer Certification.
+  - Love photography.
+  - Prefer tea to coffe
+
 <!--
 **SamuelBernard147/SamuelBernard147** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
