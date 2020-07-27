@@ -1,5 +1,8 @@
-### Hi there 👋
-
+### Hi there, I'm [Samuel!](https://samuelbernard147.github.io/) 👋
+<!--
+- 🌱 I’m currently learning UI/UX & Dart
+- 💬 Ask me about anything [here](https://t.me/SamuelBernard)
+-->
 <!--
 **SamuelBernard147/SamuelBernard147** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
