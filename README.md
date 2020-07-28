@@ -6,7 +6,7 @@
 - ⚡ Fun fact: 
   - Working towards an Associate Android Developer Certification.
   - Love photography.
-  - Prefer tea to coffe
+  - Prefer tea to coffe.
 
 <!--
 **SamuelBernard147/SamuelBernard147** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
