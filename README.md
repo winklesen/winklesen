@@ -2,8 +2,8 @@
 <!-- - 🔭 I’m an Android Developer working at [MNC Play](https://www.mncplay.id). -->
 - 🔭 I’m currently working on a few Android projects
 - 🌱 I’m currently learning Dart.
+- 💬 Ask me about Java, Kotlin, and Android Development
 - 📫 How to reach me: [Telegram](https://t.me/SamuelBernard) or [Email](samuelbjeffersen@gmail.com)
-- 💬 Ask me about Android, and UI/UX
 - 😄 Pronouns: He / Him
 <!-- - ⚡ Fun fact: 
  - Working towards an Associate Android Developer Certification. 
