@@ -6,10 +6,10 @@
 - 📫 How to reach me: [Telegram](https://t.me/SamuelBernard) or [Email](samuelbjeffersen@gmail.com).
 - 😄 Pronouns: He / Him.
 - ⚡ Fun fact:
-<!-- - Working towards an Associate Android Developer Certification. -->
  - - :camera: Love photography.
  - - :memo: Organize everything.
  - - :tea: Prefer tea to coffe.
+ <!-- - Working towards an Associate Android Developer Certification. -->
 
 <!--
 **SamuelBernard147/SamuelBernard147** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
