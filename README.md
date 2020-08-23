@@ -6,9 +6,9 @@
 - 📫 How to reach me: [Telegram](https://t.me/SamuelBernard) or [Email](samuelbjeffersen@gmail.com).
 - 😄 Pronouns: He / Him.
 - ⚡ Fun fact:
- - - :camera: Love photography.
- - - :memo: Organize everything.
- - - :tea: Prefer tea to coffe.
+  - :camera: Love photography.
+  - :memo: Organize everything.
+  - :tea: Prefer tea to coffe.
  <!-- - Working towards an Associate Android Developer Certification. -->
 
 <!--
