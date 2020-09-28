@@ -1,7 +1,7 @@
 ### Hi there, I'm [Samuel!](https://samuelbernard147.github.io/) 👋
 <!--- 🔭 I’m currently working on a few Android projects. -->
 - 🔭 I’m an Android Developer working at [MNC Play](https://www.mncplay.id). 
-- 🌱 I’m currently learning [Flutter](https://flutter.dev/) and [Express Js](https://expressjs.com).
+- 🌱 I’m currently learning [Flutter](https://flutter.dev/) and [Python](https://www.python.org).
 - 🤔 I’m looking for help with implement Face Recognition in [Android](https://android.com).
 - 💬 Ask me about random things.
 - 📫 How to reach me: [Telegram](https://t.me/SamuelBernard) or [Email](samuelbjeffersen@gmail.com).
