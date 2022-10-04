@@ -1,16 +1,16 @@
 ### Hi there, I'm [Samuel!](https://samuelbernard147.github.io/) 👋
 <!--- 🔭 I’m currently working on a few Android projects. -->
 - 🔭 I’m an Android Developer working at [MNC Play](https://www.mncplay.id). 
-- 🌱 I’m currently learning [Flutter](https://flutter.dev/) and [Python](https://www.python.org).
-- 🤔 I’m looking for help with implement Face Recognition in [Android](https://android.com).
+- 🌱 I’m currently learning [Python](https://www.python.org) and [R](https://www.r-project.org/).
+<!-- - 🤔 I’m looking for help with implement Face Recognition in [Android](https://android.com). -->
 - 💬 Ask me about random things.
 - 📫 How to reach me: [Telegram](https://t.me/SamuelBernard) or [Email](samuelbjeffersen@gmail.com).
 - 😄 Pronouns: He / Him.
-- ⚡ Fun fact:
+<!-- - ⚡ Fun fact:
   - :camera: Love photography.
   - :memo: Organize everything.
   - :tea: Prefer tea to coffe.
- <!-- - Working towards an Associate Android Developer Certification. -->
+  - Working towards an Associate Android Developer Certification. -->
  
  <a href="https://github.com/samuelbernard147">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=samuelbernard147&show_icons=true&include_all_commits=true&count_private=true" alt="Samuel's github stats" />
