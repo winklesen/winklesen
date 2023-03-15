@@ -7,3 +7,4 @@
 - ⚡ Fun fact:
   - :tea: I drink green tea a lot. Sometimes, a bit too much.
   - :joystick: I play Age of Empire II religiously.
+  - :brain:	ADHD driven learning
