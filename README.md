@@ -1,4 +1,4 @@
-### Hi there, I'm [Samuel!](https://bit.ly/nothing--personal) 👋
+### Hi there, I'm [Sam!](https://bit.ly/nothing--personal) 👋
 - 🔭 I’m an Android Developer working at [MNC Play](https://www.mncplay.id).
 - 👯 I’m looking to collaborate on Android open source related project.
 - 🌱 I’m currently learning [Tensorflow] (https://www.tensorflow.org/) and [R](https://www.r-project.org/).
