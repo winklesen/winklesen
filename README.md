@@ -1,16 +1,12 @@
-### Hi there, I'm [Samuel!](https://samuelbernard147.github.io/) 👋
-<!--- 🔭 I’m currently working on a few Android projects. -->
-- 🔭 I’m an Android Developer working at [MNC Play](https://www.mncplay.id). 
-- 🌱 I’m currently learning [Python](https://www.python.org) and [R](https://www.r-project.org/).
-- 💬 Ask me about random things.
+### Hi there, I'm [Samuel!](https://bit.ly/nothing--personal) 👋
+- 🔭 I’m an Android Developer working at [MNC Play](https://www.mncplay.id).
+- 👯 I’m looking to collaborate on Android open source related project.
+- 🌱 I’m currently learning [Tensorflow] (https://www.tensorflow.org/) and [R](https://www.r-project.org/).
+- 💬 Ask me about anything. You name it i'll look it up.
 - 📫 How to reach me: [Telegram](https://t.me/SamuelBernard) or [Email](samuelbjeffersen@gmail.com).
-- 😄 Pronouns: He / Him.
-<!-- - 🤔 I’m looking for help with implement Face Recognition in [Android](https://android.com). -->
-<!-- - ⚡ Fun fact:
-  - :camera: Love photography.
-  - :memo: Organize everything.
-  - :tea: Prefer tea to coffe.
-  - Working towards an Associate Android Developer Certification.
+- ⚡ Fun fact:
+  - :tea: I drink green tea a lot. Sometimes, a bit too much.
+  - :joystick: I play Age of Empire II religiously.
  
  <a href="https://github.com/samuelbernard147">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=samuelbernard147&show_icons=true&include_all_commits=true&count_private=true" alt="Samuel's github stats" />
@@ -18,20 +14,3 @@
 <a href="https://github.com/anuraghazra/samuelbernard147">  
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelbernard147&layout=compact" alt="Samuel's top langs"/>
 </a> 
-
- -->
-
-<!--
-**SamuelBernard147/SamuelBernard147** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
