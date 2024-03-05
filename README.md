@@ -42,30 +42,6 @@ void main() {
 		</td>
 	</tr>
 	<tr>
-		<td>Front-End</td>
-		<td>
-			<img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white">
-			<img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white">
-			<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black">
-			<!-- <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white"> -->
-			<br>
-			<img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=Bootstrap&logoColor=white">
-			<img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white">
-			<!-- <img alt="UnoCSS" src="https://img.shields.io/badge/UnoCSS-333333.svg?style=for-the-badge&logo=UnoCSS&logoColor=white"> -->
-			<br>
-			<img alt="React" src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black">
-			<img alt="React" src="https://img.shields.io/badge/Redux-764ABC.svg?style=for-the-badge&logo=Redux&logoColor=white">
-			<img alt="React Router" src="https://img.shields.io/badge/React%20Router-CA4245.svg?style=for-the-badge&logo=React-Router&logoColor=white">
-			<br>
-			<!-- <img alt="Astro" src="https://img.shields.io/badge/Astro-FF5D01.svg?style=for-the-badge&logo=Astro&logoColor=white"> -->
-			<img alt="Preact" src="https://img.shields.io/badge/Preact-673AB8.svg?style=for-the-badge&logo=Preact&logoColor=white">
-			<br>
-			<img alt="Vite" src="https://img.shields.io/badge/Vite-646CFF.svg?style=for-the-badge&logo=Vite&logoColor=white">
-			<img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-4FC08D.svg?style=for-the-badge&logo=vuedotjs&logoColor=white">
-			<img alt="Vuetify" src="https://img.shields.io/badge/Vuetify-1867C0.svg?style=for-the-badge&logo=Vuetify&logoColor=white">
-		</td>
-	</tr>
-	<tr>
 		<td>Back-End</td>
 		<td>
 			<img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=PHP&logoColor=white">
