@@ -25,10 +25,22 @@ void main() {
 }
 ```
 <hr>
-
-<img align="right" alt="winklesen's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=winklesen&langs_count=8">
+<img align="right" alt="winklesen's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=winklesen&show_icons=true&theme=transparent">
+<img align="right" alt="winklesen's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=winklesen&langs_count=4">
 
 <table>
+  <tr>
+		<td>Mobile</td>
+		<td>
+      <img alt="Dart" src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white">  
+      <img alt="Flutter" src="[![Flutter]()](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)">
+      <img alt="Kotlin" src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white">
+      <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">    
+      <img alt="Gradle" src="https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white">      
+			<!-- <img alt="Expo" src="https://img.shields.io/badge/Expo-000020.svg?style=flat&logo=Expo&logoColor=white">
+			<img alt="React Native" src="https://img.shields.io/badge/React%20Native-61DAFB.svg?style=flat&logo=React&logoColor=black"> -->
+		</td>
+	</tr>
 	<tr>
 		<td>Front-End</td>
 		<td>
@@ -68,23 +80,11 @@ void main() {
 			<img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1.svg?style=flat&logo=MySQL&logoColor=white">
 			<img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248.svg?style=flat&logo=MongoDB&logoColor=white">
 		</td>
-	</tr>
-	<tr>
-		<td>Mobile</td>
-		<td>
-      <img alt="Dart" src="![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)">  
-      <img alt="Flutter" src="![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)">
-      <img alt="Kotlin" src="![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)">
-      <img alt="Java" src="![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)">    
-      <img alt="Gradle" src="![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)">      
-			<!-- <img alt="Expo" src="https://img.shields.io/badge/Expo-000020.svg?style=flat&logo=Expo&logoColor=white">
-			<img alt="React Native" src="https://img.shields.io/badge/React%20Native-61DAFB.svg?style=flat&logo=React&logoColor=black"> -->
-		</td>
-	</tr>
+	</tr>	
 	<tr>
 		<td>Other</td>
 		<td>
-			<img alt="Kali Linux" src="![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)">
+			<img alt="Kali Linux" src="https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white">
 			<!-- <img alt="Neovim" src="https://img.shields.io/badge/Neovim-57A143.svg?style=flat&logo=Neovim&logoColor=white"> -->
 			<img alt="Git" src="https://img.shields.io/badge/Git-F05032.svg?style=flat&logo=Git&logoColor=white">
 		</td>
