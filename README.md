@@ -25,7 +25,7 @@ void main() {
 }
 ```
 <hr>
-<img align="right" alt="winklesen's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=winklesen&show_icons=true&theme=transparent">
+<img align="left" alt="winklesen's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=winklesen&show_icons=true&theme=transparent">
 <img align="right" alt="winklesen's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=winklesen&langs_count=4">
 
 <table>
@@ -33,7 +33,7 @@ void main() {
 		<td>Mobile</td>
 		<td>
       <img alt="Dart" src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white">  
-      <img alt="Flutter" src="[![Flutter]()](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)">
+      <img alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white">
       <img alt="Kotlin" src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white">
       <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">    
       <img alt="Gradle" src="https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white">      
