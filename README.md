@@ -2,15 +2,14 @@
 - 🔭 Android Developer working at [MNC Play](https://www.mncplay.id).
 - 🌱 Striving to stay awake everyday.
 - 🌱 Currently diving down to Web Environment.
-<!-- - 🌱 I’m currently learning [Tensorflow](https://www.tensorflow.org/) and [R](https://www.r-project.org/) for Data Science. -->
 - 💬 Ask me about anything. You name it i'll look it up.
 - - 📫 How to reach me: [Email](samuelbjeffersen@gmail.com).
-<!-- - 📫 How to reach me: [Telegram](https://t.me/SamuelBernard) or [Email](samuelbjeffersen@gmail.com). -->
 - ⚡ Fun fact:
   - :tea: I drink green tea a lot. Sometimes, a bit too much.
   - :joystick: I play Age of Empire II religiously.
   - :brain:	ADHD driven learning
 
+### Tech Stack 👋
 <table>
   <tr>
 		<td>Mobile</td>
