@@ -25,8 +25,8 @@ void main() {
 }
 ```
 <hr>
-<img align="left" alt="winklesen's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=winklesen&show_icons=true&theme=transparent">
-<img align="right" alt="winklesen's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=winklesen&langs_count=4">
+<!-- <img align="left" alt="winklesen's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=winklesen&show_icons=true&theme=transparent">
+<img align="right" alt="winklesen's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=winklesen&langs_count=4"> -->
 
 <table>
   <tr>
