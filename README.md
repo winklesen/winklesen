@@ -26,7 +26,7 @@ void main() {
 ```
 <hr>
 
-<img align="right" alt="winklesen's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=winklesen&layout=compact&langs_count=8&theme=tokyonight&border_color=30363d">
+<img align="right" alt="winklesen's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=winklesen&langs_count=8">
 
 <table>
 	<tr>
