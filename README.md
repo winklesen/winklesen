@@ -1,3 +1,5 @@
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=215rfw3t3x4e56bnvhxjzk73a&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=215rfw3t3x4e56bnvhxjzk73a&redirect=true)
+
 ### Hi there, I'm [Sam!](https://bit.ly/nothing--personal) 👋
 - 🔭 Android Developer working at [MNC Play](https://www.mncplay.id).
 - 🌱 Striving to stay awake everyday.
@@ -65,4 +67,3 @@
 </table>
 
 <!-- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=215rfw3t3x4e56bnvhxjzk73a&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=215rfw3t3x4e56bnvhxjzk73a&redirect=true) -->
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=215rfw3t3x4e56bnvhxjzk73a&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=215rfw3t3x4e56bnvhxjzk73a&redirect=true)
