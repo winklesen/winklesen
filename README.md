@@ -2,8 +2,8 @@
 
 ### Hi there, I'm [Sam!](https://bit.ly/nothing--personal) 👋
 - 🔭 Android Developer working at [MNC Play](https://www.mncplay.id).
-- 🌱 Striving to stay awake everyday.
-- 🌱 Currently diving down to Web Environment.
+- 🌱 Striving to stay awake everyday (im cooked).
+- 🌱 Currently diving down to ~~Flutter~~  ~~Web Environment~~ ~~React Native~~ Kotlin Multi Platform.
 - 💬 Ask me about anything. You name it i'll look it up.
 - - 📫 How to reach me: [Email](samuelbjeffersen@gmail.com).
 - ⚡ Fun fact:
