@@ -1,7 +1,7 @@
 ```C#
         _..._  hola         samuel@jeffersen
       .'     '.      _      ─────
-     /    .-""-\   _/ \     OS: Kali Linux, Android
+     /    .-""-\   _/ \     OS: Debian, Android
    .-|   /:.   |  |   |     Uptime: 22 Years, X months, Y days
    |  \  |:.   /.-'-./      Host: Self Host
    | .-'-;:__.'    =/       Kernel: NaN
